@@ -13,7 +13,7 @@ ReactJS Webinar Front-end Admin Portal
 
 ## User portal
 
-[Webinar Front-end](https://github.com/affkoul/react-webinar-frontend)
+[Webinar User Front-end](https://github.com/affkoul/react-webinar-frontend)
 
 ## Back-end
 
