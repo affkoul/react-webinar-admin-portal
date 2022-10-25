@@ -25,4 +25,4 @@ ReactJS Webinar Front-end Admin Portal
 
 Webinar Admin Web App By [GAC DEV](https://geniusandcourage.com)
 
-![Webinar Admin Web App](https://hlwsdtech.com/webinaradmin.png)
+![Webinar Admin Web App](https://ndolet.com/webinaradmin.png)
